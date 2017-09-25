@@ -1,0 +1,3 @@
+Name=Nikolay
+size=100
+email=nicky.nik@outlook.com
