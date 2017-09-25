@@ -1,0 +1,3 @@
+Name=Nikola
+size=100
+email=niko9889@abv.bg
